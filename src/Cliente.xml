@@ -1,0 +1,30 @@
+<Cliente>
+  <listaCachorros>
+    <Cachorro>
+      <nome>Abóbora</nome>
+      <raca>Golden Retriever</raca>
+      <servicoPet>Banho</servicoPet>
+      <idCachorro>1</idCachorro>
+      <valorServicoPet>40.0</valorServicoPet>
+    </Cachorro>
+    <Cachorro>
+      <nome>Girafa</nome>
+      <raca>Fila brasileiro</raca>
+      <servicoPet>Hospedagem</servicoPet>
+      <idCachorro>3</idCachorro>
+      <valorServicoPet>35.0</valorServicoPet>
+    </Cachorro>
+    <Cachorro>
+      <nome>Cebola</nome>
+      <raca>Poodle</raca>
+      <servicoPet>Tosa</servicoPet>
+      <idCachorro>2</idCachorro>
+      <valorServicoPet>55.0</valorServicoPet>
+    </Cachorro>
+  </listaCachorros>
+  <nomeCliente>Fulano da Silva</nomeCliente>
+  <cidade>Campo Grande</cidade>
+  <rua>Rua dos Alecrins</rua>
+  <cpfCliente>00011122233</cpfCliente>
+  <idCliente>1</idCliente>
+</Cliente>
